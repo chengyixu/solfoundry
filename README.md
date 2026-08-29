@@ -417,3 +417,8 @@ MIT
   Built with 🔥 by the SolFoundry automaton
 </p>
 
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
